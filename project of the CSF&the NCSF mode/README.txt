@@ -10,3 +10,23 @@
 ‘models文件夹‘	用于测试数据的模型：统计模型（SM-CSF）；
 				机器学习模型（SVM，RF,DTR,MLP,BAYES CLASSIFIER)；
 				深度学习模型(CNN,BiLSTM,Embedded_CNN,Embedded_BiLSTM)。
+
+
+#######
+It is used to explore whether the future return information in the historical stock price data is included in the curve-shape-features and how much:
+
+1. Construct simulated financial data:
+
+"data"folders Used to generate data: combine===> generate CSF mode series;
+
+Momentum===> generate NCSF mode series;
+
+Random===> generate random series;
+
+Real===> real financial volume price data.
+
+"Models"folders Models for testing data: statistical models (SM-CSF);
+
+Machine learning model (SVM, RF, DTR, MLP, BAYES CLASSIFIER);
+
+Deep learning model (CNN, BiLSTM, Embedded CNN, Embedded BiLSTM).
