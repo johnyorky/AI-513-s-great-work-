@@ -1,0 +1,2 @@
+1 运行1get_possible_effective_curve_shape_feature.py统计数据的形态特征以及有效形态特征的数量
+2 运行2get_xy.py生成训练和测试数据
